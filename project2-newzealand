@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="title" content="Travel Agency Page">
+      <meta name="description" content="New Zealand Travels"/>
+      <title>Discover New Zealand</title>
+    </head>
+    <body>
+      <h1>Discover New Zealand</h1>
+      <p>Get ready for mammoth national parks, dynamic Māori culture and world-class surfing and skiing. New Zealand can be mellow or action-packed, but it's always epic.</p>
+      <section>
+        <h2>Packages</h2>
+        <p>We offering you the best packages to explore New Zealand. Select the best packages for the best quality time.</p>
+      <ul>
+      <li><a href="https://www.freecodecamp.org/learn"target="_blank">Group Travels</li></a>
+      <li><a href="https://www.freecodecamp.org/learn"target="_blank">Private Tours</li></a>
+      </ul>
+      <h2>Top Itineraries</h2>
+      <figure>
+ <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://lp-cms-production.imgix.net/2022-02/GettyRF_530841681.jpg" alt="one tree hill" style="width:100%"></a>
+  <figcaption>One Tree Hill Auckland</figcaption> </figure>
+  <figure>
+ <a href="https://www.freecodecamp.org/learn"target="_blank"> <img src="https://www.newzealand.com/assets/Tourism-NZ/Lake-Taupo/img-1536127680-1910-26743-p-09622723-CA48-B2B9-017A5F5F106B4BFE-2544003__aWxvdmVrZWxseQo_FocalPointCropWzQyMCw0MjAsNTAsNTAsNzUsInBuZyIsNjUsMi41XQ.png" alt="Huka Falls" style="width:100%"></a>
+  <figcaption>Huka Falls</figcaption></figure>
+  <figure>
+ <a href="https://www.freecodecamp.org/learn"target="_blank" > <img src="https://www.newzealand.com/assets/Tourism-NZ/Queenstown/img-1536148717-8276-24942-0C0FCCD3-F283-6819-1DA7A16D2CF204E3__aWxvdmVrZWxseQo_CropResizeWzE5MDAsMTAwMCw3NSwianBnIl0.jpg" alt="Lake Wakatipu" style="width:100%"></a>
+<figcaption>Lake Wakatipu</figcaption>
+</figure>
+  </section>
+    </body>
+      </html>
