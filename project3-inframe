@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<main>
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+<body>
+<h1>Front End Flow</h1>
+<P>This is a project of front end web development work flows.</P>
+<section>
+    <h2>HTML</h2>
+    <p>HTML is one of the fundamental parts of front end development. It is utilize for the foundation of front end.</p>
+    <iframe src="https://youtu.be/qz0aGYrrlhU?si=yOkGfZGL8zUg3e-e" height="200" width="300" title="HTML"></iframe>
+</section>
+<section>
+    <h2>CSS</h2>
+    <p>CSS is the second of fundamental parts of Front End development. it is utilize for the styling of web.</p>
+    <iframe src="https://youtu.be/wRNinF7YQqQ?si=czAHaJ3JKr567Y8-" height="200" width="300" title="CSS"></iframe>
+</section>
+<section>
+    <h2>JavaScript</h2>
+    <p>last but not least is JavaScript. This programming language are useful for front end and back end development.</p>
+    <iframe src="https://youtu.be/W6NZfCO5SIk?si=quFy3tS7XccqO5So"height="200" width="300" title="JS"></iframe>
+</section>
+</body>
+</main>
+</html>
