@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a>
+            <li><a href="#past-events">Past Events</a>
+        </ul>
+    </nav>
+</header>
+<body>   
+<main>
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+        <h3>Love Event</h3>
+        <p>Feeling tired being a single person? Seeking a true affection for a long term? we here to help you! come to see your true faith this Saturday at the hall town! </p>
+        </article>
+        <article>
+        <h3>Circus Event</h3>
+        <p>This event is a circus event that has a purposes in entertaining people especially a person with a clown personality. this event will be held in the atrium this sunday.</p>
+        </article>
+    </section>
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>Chibi Maruko-chan Event</h3>
+            <p>want to nostalgia about your childhood favorite cartoon? Chibi Maruko-chan event come to heals your inner child! this event was held in the atrium on 2 February 2024.</p>
+            <img src="https://awsimages.detik.net.id/community/media/visual/2022/12/24/chibi-maruko-chan.png?w=1200" alt="chibimaruko" width="300" height="200">
+        </article>
+        <article>
+            <h3>The Weeknd Concert</h3>
+            <p>Hurry Up Tomorrow is up! having a serious broke up with your partner? don't worry, Abel Tesfaye is here to rescue your heart! come join us at The Weeknd Concert in the stadium 4th of September 2024</p>
+            <img src="https://www.theweeknd.com/files/2022/12/TheWeeknd-2025_All-Dates_3840x2160_0421.jpg" width="300" height="200" alt="theweeknd">
+        </article>
+        </section>
+</main>
+</body>
+</html>
